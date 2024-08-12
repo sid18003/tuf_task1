@@ -1,0 +1,13 @@
+.center .adding{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 600px;
+    height: 500px;
+    align-items: center;
+    /* justify-content: center;  */
+} 
+.center{
+    text-align: center;
+    align-items: center;
+}
